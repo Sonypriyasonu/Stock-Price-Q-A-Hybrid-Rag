@@ -51,4 +51,10 @@ This **Streamlit-based application** allows users to download stock price data a
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-price-rag-app.git
+   git clone https://github.com/yourusername/stock-price-rag-app.git```
+2. Install dependencies:
+    ```bash
+   pip install -r requirements.txt```
+3. Run the app:
+   ```bash
+   python -m streamlit run app.py```
